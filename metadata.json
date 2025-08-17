@@ -1,0 +1,7 @@
+{
+  "name": "LingoLeap AI: English Tutor",
+  "description": "An interactive English-teaching agent for adult learners. The agent uses AI to dynamically generate grammar explanations and exercises, adapting to the user's progress. It includes progress tracking, personalized recommendations, and optional voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
